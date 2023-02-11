@@ -1,4 +1,4 @@
-# Team 8: SDS384-Final-Project - Reem Fashho, Amanda Nowacki, Shreya Shukla 
+# SDS 383 Team 8:  - Reem Fashho, Amanda Nowacki, Shreya Shukla 
 
 ### Abstract
 The goal of our project is to conduct Supervised Lung Nodule Exploratory Analysis. 
