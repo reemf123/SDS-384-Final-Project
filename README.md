@@ -1,6 +1,6 @@
-# Team 8: SDS-384-Final-Project
-### Reem Fashho, Amanda Nowacki, Shreya Shukla 
+# Team 8: SDS384-Final-Project - Reem Fashho, Amanda Nowacki, Shreya Shukla 
 
+### Abstract
 The goal of our project is to conduct Supervised Lung Nodule Exploratory Analysis. 
 The first aim of our problem set up is to execute a binary classification of the presence or absence of nodules in Lung CT Scans. We will train and test at least 4 different classification algorithms on CT scans provided to us by the LUNA 16 DataSet. We will acess the performance of each classification method via various vizulization methods and statiscal scores. Then, our hope is to test the strongest binary classification algorithm on Lung CT scans containing tumors rather than nodules. Via our teammates research labratory, we have over 30 Lung CT scans, some of which contain tumors. The source of this data set is The Dynamic Medical Image and Computing (DMIC) Lab repository. We would like to determine whether the algorithm we develop to classfify the presence of Lung Nodules can be extended to Lung Tumors. The second aim of our project set up is to perform supervised tumor im... 
 
