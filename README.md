@@ -9,6 +9,7 @@ The first aim of our problem setup is to execute a binary classification of the 
 #### 1. LUNA 16 from LIDC/IDRI Database
 ###### Source: https://luna16.grand-challenge.org/Download/
 ###### Size: 888 CT Scans (Contains 1,186 nodules annotated collected by 4 experienced radiologists)
+####### Annotation Process of CT Scans: https://pubmed.ncbi.nlm.nih.gov/21452728/
 ###### Variables: Candidate ID, x/y/z position of nodule, class label (0 for non-nodule/1 for nodule)
 ###### Limitations: 
 
@@ -21,7 +22,8 @@ The first aim of our problem setup is to execute a binary classification of the 
 ###### Limitations: Small Data Set, Inconsistent Imaging Artifact in Scans, Few annotations collected by biomedical engineering undergraduate students
 
 ### References: 
+https://www.nature.com/articles/s41467-022-30841-3
+https://rumc-gcorg-p-public.s3.amazonaws.com/f/challenge/71/8ac994bc-9951-420d-a7e5-21050c5b4132/20180102_081812_PAtech_NDET.pdf
+https://www.mdpi.com/2072-6694/14/21/5457
 
 
-
-TODO: short description of the project, goals, link to data, some information about the data, and references.
