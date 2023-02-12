@@ -1,4 +1,4 @@
-# SDS 384 Team 8:  - Reem Fashho, Amanda Nowacki, Shreya Shukla 
+# SDS 384 Team 8: Reem Fashho, Amanda Nowacki, Shreya Shukla 
 
 ## Abstract
 The goal of our project is to conduct a Supervised Lung Nodule Exploratory Analysis. 
@@ -10,7 +10,7 @@ The first aim of our problem setup is to execute a binary classification of the 
 ###### Size: 888 CT Scans (Contains 1,186 nodules annotated collected by 4 experienced radiologists)
 ###### Annotation Process of CT Scans: https://pubmed.ncbi.nlm.nih.gov/21452728/
 ###### Variables: Candidate ID, x/y/z position of nodule, class label (0 for non-nodule/1 for nodule)
-###### Limitations:Data comes in various file types, Differing Voxel lengths
+###### Limitations: Data comes in various file types, Differing Voxel lengths
 
 #### 2. Research CT Scans from Team Member’s Laboratory Research 
 
