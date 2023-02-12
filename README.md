@@ -19,7 +19,7 @@ The first aim of our problem setup is to execute a binary classification of the 
 ###### Variables: Class Label (0 for no tumor/1 for tumor), radiation treatment
 ###### Limitations: Small Data Set, Inconsistent Imaging Artifact in Scans, Differing Voxel lengths, Few Annotations Collected by Non-experts (biomedical engineering undergraduate students)
 
-### References 
+## References 
 ###### https://www.nature.com/articles/s41467-022-30841-3
 ###### https://rumc-gcorg-p-public.s3.amazonaws.com/f/challenge/71/8ac994bc-9951-420d-a7e5-21050c5b4132/20180102_081812_PAtech_NDET.pdf
 ###### https://www.mdpi.com/2072-6694/14/21/5457
