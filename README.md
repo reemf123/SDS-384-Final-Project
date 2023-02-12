@@ -15,10 +15,10 @@ The first aim of our problem setup is to execute a binary classification of the 
 
 #### 2. Research CT Scans from Team Member’s Laboratory Research 
 
-Source: The Dynamic Medical Image and Computing (DMIC) Lab repository
-Size: 30 CT Scans (8 Annotated Scans)
-Variables: Class Label (0 for no tumor/1 for tumor), radiation treatment
-Limitations: Small Data Set, Inconsistent Imaging Artifact in Scans, Few annotations collected by biomedical engineering undergraduate students
+###### Source: The Dynamic Medical Image and Computing (DMIC) Lab repository
+###### Size: 30 CT Scans (8 Annotated Scans)
+###### Variables: Class Label (0 for no tumor/1 for tumor), radiation treatment
+###### Limitations: Small Data Set, Inconsistent Imaging Artifact in Scans, Few annotations collected by biomedical engineering undergraduate students
 
 ### References: 
 
