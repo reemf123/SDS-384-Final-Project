@@ -9,7 +9,7 @@ The goal of our project is to conduct a Supervised Chest Cancer Classification E
 ##### Source: https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 ##### Size: 1000 Images Split Into: 70% Train, 20% Test, 10% Validation
 ##### Variables: Label (Cancer/NonCancer), Image Dimensions, Width, Channel (Unimportant)
-##### Limitations: Data comes in various file types (12 .jpg, 988 .png), Small Sample Size - there are roughly 600 training images that is comprised of 4 subsets, thus the strength of the algorithm is limited unless data augmentation is performed. 
+##### Limitations: Data comes in various file types (12 .jpg, 988 .png), Small Sample Size - there are roughly 613 training images which comprised of 4 subsets, thus the strength of the algorithm is limited unless data augmentation is performed. 
 ##### Contains train, test, and validation directory each containing a subdirectory of different chest cancer types (carcinoma, squamous cell carcinoma) and 1 subdirectory of normal CT-Scan images
 
 
