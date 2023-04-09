@@ -1,8 +1,7 @@
 # SDS 384 Team 8: Reem Fashho, Amanda Nowacki, Shreya Shukla 
 
 ## Abstract
-The goal of our project is to conduct a Supervised Lung Cancer Classification Experiment to detect the presence of cancer in human lungs from Normal, Adenocarcinoma, Large Cell Carcinoma, and Squamous Cell Carcinoma images. Our primary aim is to execute a classification algorithm on image data of CT scans. We will train and test at least 4 different models on the
-data set and assess their performance via various visualization methods and statistical analyses. 
+The goal of our project is to conduct a Supervised Lung Cancer Classification Experiment to detect the presence of cancer in human lungs from Normal, Adenocarcinoma, Large Cell Carcinoma, and Squamous Cell Carcinoma images. We will train and test at least 4 different models on the images and then assess the models' performance via various visualization methods and statistical analyses. 
 
 ## Data Set 
 
