@@ -1,7 +1,7 @@
 # SDS 384 Team 8: Reem Fashho, Amanda Nowacki, Shreya Shukla 
 
 ## Abstract
-The goal of our project is to conduct a Supervised Chest Cancer Classification Experiment to detect the presence of cancer in human chests from Normal, Adenocarcinoma, Large Cell Carcinoma, and Squamous Cell Carcinoma images. We will train and test at least 4 different models on the images and then assess the models' performance via various visualization methods and statistical analyses. 
+The goal of our project is to conduct a Supervised Chest Cancer Classification Experiment to detect the presence of cancer in human chests from Normal, Adenocarcinoma, Large Cell Carcinoma, and Squamous Cell Carcinoma images. We will train and test at least 4 different models on the images and then assess the models' performance via various visualization methods and statistical analyses. Based on our analyses, we will move forward with a single model and implement interpretability models such as LIME to understand individual cancer and noncancer predictions. 
 
 ## Data Set 
 
