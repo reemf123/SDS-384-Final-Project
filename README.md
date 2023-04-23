@@ -5,7 +5,7 @@ The goal of our project is to conduct a Supervised Chest Cancer Classification E
 
 ## Data Set 
 
-#### 1. Chest CT-Scan Images Dataset (Original Source Unavailable) 
+### Chest CT-Scan Images Dataset (Original Source Unavailable) 
 ##### Source: https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 ##### Size: 1000 Images Split Into: 70% Train, 20% Test, 10% Validation
 ##### Variables: Label (Cancer/NonCancer), Image Dimensions, Width, Channel (Unimportant)
