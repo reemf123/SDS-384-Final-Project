@@ -4,5 +4,5 @@ This folder contains google colab notebooks for models ran on making changes to 
 3. Gaussian noise variation (0.5 - 4.00)
 
 Models:
-VGG-16
-ResNet-50
+1. VGG-16
+2. ResNet-50
