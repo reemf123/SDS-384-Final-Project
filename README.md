@@ -39,8 +39,7 @@ The goal of our project is to conduct a Supervised Chest Cancer Classification E
 
 #### [12]
 
-#### [13] Chest Cancer Classification With VVG 16 | Kaggle. (n.d.). Retrieved April 21, 2023, from https://www.kaggle.com/code/yasserhessein/chest-cancer-classification-with-
-vvg-16
+#### [13] Chest Cancer Classification With VVG 16 | Kaggle. (n.d.). Retrieved April 21, 2023, from https://www.kaggle.com/code/yasserhessein/chest-cancer-classification-with-vvg-16
 
 #### [14]
 
@@ -52,11 +51,9 @@ vvg-16
 
 #### [18] Song, Q. Z., Zhao, L., Luo, X. K., & Dou, X. C. (2017). Using Deep Learning for Classification of Lung Nodules on Computed Tomography Images. Journal of Healthcare Engineering, 2017. https://doi.org/10.1155/2017/8314740
 
-#### [19] How Much Data Is Required for Machine Learning? – PostIndustria. (n.d.). Retrieved April 21, 2023, from https://postindustria.com/how-much-data-is-required-for-
-machine-learning/
+#### [19] How Much Data Is Required for Machine Learning? – PostIndustria. (n.d.). Retrieved April 21, 2023, from https://postindustria.com/how-much-data-is-required-for-machine-learning/
 
-#### [20] Data - Grand Challenge. (n.d.). Retrieved April 21, 2023, from https://luna16.grand-
-challenge.org/Data/
+#### [20] Data - Grand Challenge. (n.d.). Retrieved April 21, 2023, from https://luna16.grand-challenge.org/Data/
 
 #### [21] Data From LIDC-IDRI. (n.d.). https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX
 
