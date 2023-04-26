@@ -27,24 +27,57 @@ The goal of our project is to conduct a Supervised Chest Cancer Classification E
 
 #### [6] Chest CT-Scan images Dataset | Kaggle. (n.d.). Retrieved April 21, 2023, from https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 
-#### [7] Image Classification Techniques. Image classification refers to a… | by Kavish Sanghvi | Analytics Vidhya | Medium. (n.d.). Retrieved April 21, 2023, from https://medium.com/analytics-vidhya/image-classification-techniques-83fd87011cac
+#### [7] Non-Small Cell Lung Cancer > Fact Sheets > Yale Medicine. (n.d.). Retrieved April 25, 2023, from https://www.yalemedicine.org/conditions/non-small-cell-lung-cancer#:~:text=What%20is%20non%2Dsmall%20cell,surface%20of%20the%20lung%20airways
 
-#### [8] Chest Cancer Classification With VVG 16 | Kaggle. (n.d.). Retrieved April 21, 2023, from https://www.kaggle.com/code/yasserhessein/chest-cancer-classification-with-vvg-16
+#### [8] Zhang, J., & Yang, G. C. H. (2012). Adenocarcinoma. In Lung and Mediastinum Cytohistology (pp. 122–144). Cambridge University Press. https://doi.org/10.1017/CBO9781139023351.007
 
-#### [9] Ramanjaneyulu, K., Kumar, K. H., Snehith, K., Jyothirmai, G., & Venkata Krishna, K. (2022). Detection and Classification of Lung Cancer Using VGG-16. Proceedings of the 2022 International Conference on Electronic Systems and Intelligent Computing, ICESIC 2022, 69–72. https://doi.org/10.1109/ICESIC53714.2022.9783556
+#### [9] Panunzio, A., & Sartori, P. (2020). Lung Cancer and Radiological Imaging. Current Radiopharmaceuticals, 13(3), 238–242. https://doi.org/10.2174/1874471013666200523161849
 
-#### [10] Song, Q. Z., Zhao, L., Luo, X. K., & Dou, X. C. (2017). Using Deep Learning for Classification of Lung Nodules on Computed Tomography Images. Journal of Healthcare Engineering, 2017. https://doi.org/10.1155/2017/8314740
+#### [10] Interpretable Machine Learning - Christoph Molnar. (n.d.). Retrieved April 25, 2023, from https://christophmolnar.com/books/interpretable-machine-learning/
 
-#### [11] How Much Data Is Required for Machine Learning? – PostIndustria. (n.d.). Retrieved April 21, 2023, from https://postindustria.com/how-much-data-is-required-for-machine-learning/
+#### [11]  Image Classification Techniques. Image classification refers to a… | by Kavish Sanghvi | Analytics Vidhya | Medium. (n.d.). Retrieved April 21, 2023, from https://medium.com/analytics-vidhya/image-classification-techniques-83fd87011cac
 
-#### [12] Data - Grand Challenge. (n.d.). Retrieved April 21, 2023, from https://luna16.grand-challenge.org/Data/
+#### [12]
 
-#### [13] Data From LIDC-IDRI. (n.d.). https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX
+#### [13] Chest Cancer Classification With VVG 16 | Kaggle. (n.d.). Retrieved April 21, 2023, from https://www.kaggle.com/code/yasserhessein/chest-cancer-classification-with-
+vvg-16
 
-#### [14] Lin, C.-J., Jeng, S.-Y., & Chen, M.-K. (2020). Using 2D CNN with Taguchi Parametric Optimization for Lung Cancer Recognition from CT Images. Applied Sciences, 10(7), 2591. https://doi.org/10.3390/app10072591
+#### [14]
 
-#### [15] COPD - Symptoms and causes - Mayo Clinic. (n.d.). Retrieved April 21, 2023, from https://www.mayoclinic.org/diseases-conditions/copd/symptoms-causes/syc-20353679
+#### [15]
 
-#### [16] Purandare, N. C., & Rangarajan, V. (2015). Imaging of lung cancer: Implications on staging and management. Indian Journal of Radiology and Imaging, 25(2), 109–120. https://doi.org/10.4103/0971-3026.155831
+#### [16] What’s Wrong with LIME. While being one of the most popular… | by Denis Vorotyntsev | Towards Data Science. (n.d.). Retrieved April 25, 2023, from https://towardsdatascience.com/whats-wrong-with-lime-86b335f34612
 
-#### [17] Lu, Y., Liang, H., Shi, S., & Fu, X. (2021). Lung Cancer Detection using a Dilated CNN with VGG16. ACM International Conference Proceeding Series, 45–51. https://doi.org/10.1145/3483207.3483215
+#### [17] Ramanjaneyulu, K., Kumar, K. H., Snehith, K., Jyothirmai, G., & Venkata Krishna, K. (2022). Detection and Classification of Lung Cancer Using VGG-16. Proceedings of the 2022 International Conference on Electronic Systems and Intelligent Computing, ICESIC 2022, 69–72. https://doi.org/10.1109/ICESIC53714.2022.9783556
+
+#### [18] Song, Q. Z., Zhao, L., Luo, X. K., & Dou, X. C. (2017). Using Deep Learning for Classification of Lung Nodules on Computed Tomography Images. Journal of Healthcare Engineering, 2017. https://doi.org/10.1155/2017/8314740
+
+#### [19] How Much Data Is Required for Machine Learning? – PostIndustria. (n.d.). Retrieved April 21, 2023, from https://postindustria.com/how-much-data-is-required-for-
+machine-learning/
+
+#### [20] Data - Grand Challenge. (n.d.). Retrieved April 21, 2023, from https://luna16.grand-
+challenge.org/Data/
+
+#### [21] Data From LIDC-IDRI. (n.d.). https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX
+
+#### [22] Lin, C.-J., Jeng, S.-Y., & Chen, M.-K. (2020). Using 2D CNN with Taguchi Parametric Optimization for Lung Cancer Recognition from CT Images. Applied Sciences, 10(7), 2591. https://doi.org/10.3390/app10072591
+
+#### [23] Significance of Kernel size. Why the kernel size should be odd? What… | by Anuja Ihare | Analytics Vidhya | Medium. (n.d.). Retrieved April 25, 2023, from https://medium.com/analytics-vidhya/significance-of-kernel-size-200d769aecb1
+
+#### [24] Why is Odd sized kernel preferred over Even sized kernel? | by Prasant Kumar | Geek Culture | Medium. (n.d.). Retrieved April 25, 2023, from https://medium.com/geekculture/why-is-odd-sized-kernel-preferred-over-even-sized-kernel-a767e47b1d77
+
+#### [25] When do we use an even size kernel in convolutional neural network and why? - Cross Validated. (n.d.). Retrieved April 25, 2023, from https://stats.stackexchange.com/questions/366739/when-do-we-use-an-even-size-kernel-in-convolutional-neural-network-and-why
+
+#### [26] View of Lung cancer classification with Convolutional Neural Network Architectures. (n.d.). Retrieved April 25, 2023, from https://journal.qubahan.com/index.php/qaj/article/view/33/20
+
+#### [27] How does Batch Size impact your model learning | by Devansh- Machine Learning Made Simple | Geek Culture | Medium. (n.d.). Retrieved April 25, 2023, from https://medium.com/geekculture/how-does-batch-size-impact-your-model-learning-2dd34d9fb1fa
+
+#### [28] Sajja T.K., Davarapalli R.M., and Kalluri H.K. (2019). Lung Cancer Detection Based on CT Scan Images Using Deep Transfer Learning. International Information and Engineering Technology Association (Vol. 36, Issue 4, pp. 339-344). https://doi.org/10.18280/ts.360406
+
+#### [29] Mohite A. (2021). "Application of Transfer Learning Technique for Detection and Classification of Lung Cancer using CT Images." International Journal of Scientific Research and Management (Vol. 09, Issue 11, pp. 621-632). https://doi.org/10.18535/ijsrm/v9i11.ec02
+
+#### [30] COPD - Symptoms and causes - Mayo Clinic. (n.d.). Retrieved April 21, 2023, from https://www.mayoclinic.org/diseases-conditions/copd/symptoms-causes/syc-20353679
+
+#### [31] Purandare, N. C., & Rangarajan, V. (2015). Imaging of lung cancer: Implications on staging and management. Indian Journal of Radiology and Imaging, 25(2), 109–120. https://doi.org/10.4103/0971-3026.155831
+
+#### [32] Lu, Y., Liang, H., Shi, S., & Fu, X. (2021). Lung Cancer Detection using a Dilated CNN with VGG16. ACM International Conference Proceeding Series, 45–51. https://doi.org/10.1145/3483207.3483215
